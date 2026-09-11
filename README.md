@@ -28,8 +28,6 @@ My projects are focused on one idea:
 
 ---
 
-## `// ecosystem`
-
 <p align="center">
   <img src="./assets/ecosystem.svg" width="100%" alt="Bellenne Ecosystem">
 </p>
