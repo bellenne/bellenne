@@ -30,83 +30,56 @@ My projects are focused on one idea:
 
 ## `// ecosystem`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> **Bellenne** is a collection of tools built around automation, analytics
+> and production workflows.
 
-### ◈ BellennePulse
+<br>
 
-**Analytics & reporting**
-
-Analytics platform focused on turning operational data into clear, useful reports and metrics.
+### `01` ◈ BellennePulse
+**Analytics & reporting**  
+<sub>Operational analytics, dashboards and automated reporting.</sub>
 
 `analytics` `dashboards` `automation`
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-### ◈ BellenneEcho
-
-**Automated communication**
-
-Tools for automatically processing incoming feedback and generating appropriate responses.
+### `02` ◈ BellenneEcho
+**Automated communication**  
+<sub>Automatic feedback processing and intelligent response generation.</sub>
 
 `automation` `AI` `integrations`
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td width="50%" valign="top">
-
-### ◈ BellenneVector
-
-**Data processing**
-
-Utilities for combining, transforming and processing data from different sources.
+### `03` ◈ BellenneVector
+**Data processing**  
+<sub>Combining, transforming and processing data from multiple sources.</sub>
 
 `data` `processing` `pipelines`
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-### ◈ BellenneNest
-
-**Wallpaper layout engine**
-
-Software for automatically calculating and generating optimal wallpaper layouts.
+### `04` ◈ BellenneNest
+**Wallpaper layout engine**  
+<sub>Optimal wallpaper layout calculation for production workflows.</sub>
 
 `algorithms` `layout` `production`
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td width="50%" valign="top">
-
-### ◈ BellenneProof
-
-**Automated color proof workflow**
-
-A distributed system for receiving production requests, managing queues and preparing color proofs using dedicated workers.
+### `05` ◈ BellenneProof
+**Automated color proof workflow**  
+<sub>Queue-driven distributed system for automatic color proof preparation.</sub>
 
 `workers` `webhooks` `queues`
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-### ◈ BellenneRelay
-
-**Real-time translation**
-
-Desktop software for real-time English → Russian speech translation.
+### `06` ◈ BellenneRelay
+**Real-time translation**  
+<sub>Real-time English → Russian speech translation for desktop.</sub>
 
 `speech-to-text` `translation` `desktop`
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## `// stack`
