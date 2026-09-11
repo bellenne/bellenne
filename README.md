@@ -30,56 +30,10 @@ My projects are focused on one idea:
 
 ## `// ecosystem`
 
-> **Bellenne** is a collection of tools built around automation, analytics
-> and production workflows.
+<p align="center">
+  <img src="./assets/ecosystem.svg" width="100%" alt="Bellenne Ecosystem">
+</p>
 
-<br>
-
-### `01` ◈ BellennePulse
-**Analytics & reporting**  
-<sub>Operational analytics, dashboards and automated reporting.</sub>
-
-`analytics` `dashboards` `automation`
-
-<br>
-
-### `02` ◈ BellenneEcho
-**Automated communication**  
-<sub>Automatic feedback processing and intelligent response generation.</sub>
-
-`automation` `AI` `integrations`
-
-<br>
-
-### `03` ◈ BellenneVector
-**Data processing**  
-<sub>Combining, transforming and processing data from multiple sources.</sub>
-
-`data` `processing` `pipelines`
-
-<br>
-
-### `04` ◈ BellenneNest
-**Wallpaper layout engine**  
-<sub>Optimal wallpaper layout calculation for production workflows.</sub>
-
-`algorithms` `layout` `production`
-
-<br>
-
-### `05` ◈ BellenneProof
-**Automated color proof workflow**  
-<sub>Queue-driven distributed system for automatic color proof preparation.</sub>
-
-`workers` `webhooks` `queues`
-
-<br>
-
-### `06` ◈ BellenneRelay
-**Real-time translation**  
-<sub>Real-time English → Russian speech translation for desktop.</sub>
-
-`speech-to-text` `translation` `desktop`
 ---
 
 ## `// stack`
